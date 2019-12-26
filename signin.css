@@ -57,3 +57,7 @@ body {
 .grey {
   color: Grey;
 }
+
+a:hover {
+  text-decoration: none;
+}
